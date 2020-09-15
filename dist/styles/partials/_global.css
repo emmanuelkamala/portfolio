@@ -49,3 +49,8 @@
   box-shadow: var(--box-shadow);
   color: whitesmoke;
 }
+
+p.para {
+  color: var(--text-color);
+  font: normal 400 16px/25px var(--open);
+}

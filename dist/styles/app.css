@@ -68,3 +68,13 @@
   width: 90vw;
 }
 
+/* About Area */
+
+.site-main .about-area {
+  padding: 8rem 5rem;
+}
+
+.site-main .about-area .about-title h2 > span {
+  display: block;
+  font: normal bold 50px/60px var(--open);
+}
