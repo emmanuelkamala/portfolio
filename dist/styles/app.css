@@ -1,3 +1,17 @@
-body {
-  font-family: 'Open Sans', sans-serif;
+@import url(./partials/_variables.css);
+
+.header_area .main-menu .navbar .navbar-brand {
+  padding: 0 2rem 0 0;
+}
+
+.header_area .main-menu .navbar {
+  padding: 1rem 20rem;
+}
+
+.header_area .main-menu .nav-item .nav-link {
+  font-family: var(--open);
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 1.7rem;
+  color: var(--title-color);
 }
