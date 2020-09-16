@@ -54,3 +54,12 @@ p.para {
   color: var(--text-color);
   font: normal 400 16px/25px var(--open);
 }
+
+button:focus,
+button:active,
+button:hover,
+.btn:active,
+.btn.active {
+  outline: 0 !important;
+  box-shadow: none !important;
+}
