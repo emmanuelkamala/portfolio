@@ -129,3 +129,24 @@
 .project-area .grid .my-project > .title h4 {
   font: normal 400 25px/12px var(--open);
 }
+
+/* Footer Area */
+
+.footer-area {
+  padding: 5rem 0;
+  background: url(../img/footer-bg.png) no-repeat;
+}
+
+.footer-area .social h5 {
+  font: normal 400 23px/30px var(--open);
+}
+
+.footer-area .social a > i {
+  font-size: 22px;
+  padding: 2rem;
+  color: var(--border-color);
+}
+
+.footer-area .social a:hover > i {
+  color: var(--primary-color);
+}
