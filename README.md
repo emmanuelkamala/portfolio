@@ -2,7 +2,7 @@
 
 This is my own portfolio app that briefly shows the work that I have done over the period that I started to learn to code and also a little history about myself and the technologies learned so far.
 
-![screenshot](../img/intro.png)
+![screenshot](./dist/img/intro.png)
 
 ## Built With
 
