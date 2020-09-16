@@ -78,3 +78,35 @@
   display: block;
   font: normal bold 50px/60px var(--open);
 }
+
+/* Skills Area */
+
+.html-img {
+  width: 50%;
+  height: 50%;
+}
+
+.css-img {
+  width: 38%;
+  height: 38%;
+}
+
+.js-img {
+  width: 45%;
+  height: 45%;
+}
+
+.react-img {
+  width: 50%;
+  height: 50%;
+}
+
+.rails-img {
+  width: 50%;
+  height: 50%;
+}
+
+.git-img {
+  width: 50%;
+  height: 50%;
+}
