@@ -130,6 +130,19 @@
   font: normal 400 25px/12px var(--open);
 }
 
+.project-area .element-item {
+  text-align: center;
+  padding: 0.5rem 0.5rem;
+  cursor: pointer;
+  transition: transform .4s ease;
+}
+
+.project-area .element-item:hover {
+  box-shadow: var(--box-shadow);
+  transform: scale(1.1);
+}
+
+
 /* Footer Area */
 
 .footer-area {
