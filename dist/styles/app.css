@@ -81,32 +81,29 @@
 
 /* Skills Area */
 
-.html-img {
-  width: 50%;
-  height: 50%;
+.skills-area {
+  padding: 1rem 20rem;
+  margin-bottom: 4rem;
 }
 
-.css-img {
-  width: 38%;
-  height: 38%;
+.skills-area .first-row .col-lg-4 {
+  display: flex;
+  justify-content: center;
 }
 
-.js-img {
-  width: 45%;
-  height: 45%;
+.skills-area .first-row .col-lg-4 > .tech-one {
+  border: 1px solid var(--border-color);
+  text-align: center;
+  padding: 1.2rem 0.5rem;
+  cursor: pointer;
+  transition: transform .4s ease;
 }
 
-.react-img {
-  width: 50%;
-  height: 50%;
+.skills-area .first-row .col-lg-4 > .tech-one:hover {
+  box-shadow: var(--box-shadow);
+  transform: scale(1.1);
 }
 
-.rails-img {
-  width: 50%;
-  height: 50%;
-}
-
-.git-img {
-  width: 50%;
-  height: 50%;
+.skills-area .first-row .col-lg-4 > .tech-one > img {
+  width: 70%;
 }
