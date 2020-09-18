@@ -32,6 +32,15 @@
   background-clip: text;
 }
 
+.header-social a > i {
+  font-size: 22px;
+  padding: 2rem;
+  color: var(--icon-color);
+}
+
+.header-social a:hover > i {
+  color: var(--primary-color);
+}
 
 /* Main Site Area */
 
@@ -157,7 +166,7 @@
 .footer-area .social a > i {
   font-size: 22px;
   padding: 2rem;
-  color: var(--border-color);
+  color: var(--icon-color);
 }
 
 .footer-area .social a:hover > i {
