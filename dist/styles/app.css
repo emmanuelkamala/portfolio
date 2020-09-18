@@ -172,3 +172,7 @@
 .footer-area .social a:hover > i {
   color: var(--primary-color);
 }
+
+.contact {
+  color: var(--primary-color);
+}

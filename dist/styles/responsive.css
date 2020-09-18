@@ -5,6 +5,11 @@
     margin: 0%;
   }
 
+  .header-social a > i {
+    font-size: 18px;
+    padding: 0.5rem;
+  }
+
   .site-main .site-banner .site-title h1 {
     font-size: 30px;
   }
@@ -28,6 +33,11 @@
   .header_area .main-menu .navbar {
     padding: 4%;
     margin: 0%;
+  }
+
+  .header-social a > i {
+    font-size: 18px;
+    padding: 0.5rem;
   }
 
   .site-main .site-banner .site-title h1 {
