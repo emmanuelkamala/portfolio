@@ -20,7 +20,7 @@ This is my own portfolio app that briefly shows the work that I have done over t
 
 ## Future Plans
 
-I plan to add sections for the services that I am going to provide with the technologies learned, also I plan to add a blog section where by I will document in an articles stuff that I learn and share with the world and if possible, I am going to add a subscriber section where visitors could learn some new stuff that may be shared in their email accounts.
+I plan to add sections for the services that I am going to provide with the technologies learned, also I plan to add a blog section where by I will document in an articles stuff that I learn and share with the world and if possible, I am going to add a subscriber section where visitors could learn some new stuff that may be shared through their email accounts.
 
 
 ## Author
